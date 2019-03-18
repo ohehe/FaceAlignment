@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/CMakeLists.txt
+E:/software/code/app/cmake/share/cmake-3.11/Modules/FindThreads.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckLibraryExists.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckSymbolExists.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckIncludeFile.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckIncludeFile.c.in
+E:/software/code/app/cmake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/CMake/modules/FindVulkan.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CMakePackageConfigHelpers.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/WriteBasicConfigVersionFile.cmake
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/src/glfw3Config.cmake.in
+E:/software/code/app/cmake/share/cmake-3.11/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/src/glfw_config.h.in
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/src/glfw3.pc.in

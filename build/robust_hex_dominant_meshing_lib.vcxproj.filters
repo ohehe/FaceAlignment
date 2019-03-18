@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\bvh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\dedge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\subdivide.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orient_triangle_mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\rply\rply.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\im_resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\bvh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\dedge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\lock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\quat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\subdivide.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orient_triangle_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\55f3bbf17897632c1b9f1b3c60de797d\im_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5BD8575-4F63-346A-82F1-8DA8C40A6F67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B4F58E66-C03E-3FDB-94B2-34D5278BAF85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57D02610-6B66-3E26-BF54-B9446550D3B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

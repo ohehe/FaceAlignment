@@ -1,0 +1,37 @@
+﻿  Running bin2c
+  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/nanogui/CMakeFiles/generate.stamp is up-to-date.
+  nanovg.c
+  glad.c
+  nanogui_resources.cpp
+  glutil.cpp
+  common.cpp
+  widget.cpp
+  theme.cpp
+  layout.cpp
+  screen.cpp
+  label.cpp
+  window.cpp
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\glutil.cpp(178): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\glutil.cpp(187): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+  popup.cpp
+  checkbox.cpp
+  button.cpp
+  popupbutton.cpp
+  combobox.cpp
+  progressbar.cpp
+  slider.cpp
+  messagedialog.cpp
+  textbox.cpp
+  imagepanel.cpp
+  imageview.cpp
+  vscrollpanel.cpp
+  colorwheel.cpp
+  colorpicker.cpp
+  graph.cpp
+  stackedwidget.cpp
+  tabheader.cpp
+  tabwidget.cpp
+  glcanvas.cpp
+  serializer.cpp
+  nanogui-obj.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\nanogui\nanogui-obj.dir\Release\nanogui-obj.lib

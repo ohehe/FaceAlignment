@@ -1,0 +1,4 @@
+﻿  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/nanogui/CMakeFiles/generate.stamp is up-to-date.
+  bin2c.c
+  bin2c.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\nanogui\Release\bin2c.exe

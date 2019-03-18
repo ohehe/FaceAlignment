@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{717B8BBC-DDE0-31BB-B3E3-5505822E6CA3}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src\rml\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src\rml\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src\rml\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\src\rml\include;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+E:\software\code\app\cmake\bin\cmake.exe -HF:/Hex_dominant_meshing/robust_hex_dominant_meshing -BF:/Hex_dominant_meshing/robust_hex_dominant_meshing/build --check-stamp-file F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/tbb/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;E:\software\code\app\cmake\share\cmake-3.11\Modules\CheckCXXCompilerFlag.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompilerId.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeCompilerIdDetection.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeFindBinUtils.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMCompiler.cmake.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\3.11.0-rc4\CMakeASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASM_MASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASMCompiler.cmake;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\build\version_string.ver.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+E:\software\code\app\cmake\bin\cmake.exe -HF:/Hex_dominant_meshing/robust_hex_dominant_meshing -BF:/Hex_dominant_meshing/robust_hex_dominant_meshing/build --check-stamp-file F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/tbb/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;E:\software\code\app\cmake\share\cmake-3.11\Modules\CheckCXXCompilerFlag.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompilerId.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeCompilerIdDetection.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeFindBinUtils.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMCompiler.cmake.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\3.11.0-rc4\CMakeASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASM_MASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASMCompiler.cmake;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\build\version_string.ver.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+E:\software\code\app\cmake\bin\cmake.exe -HF:/Hex_dominant_meshing/robust_hex_dominant_meshing -BF:/Hex_dominant_meshing/robust_hex_dominant_meshing/build --check-stamp-file F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/tbb/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;E:\software\code\app\cmake\share\cmake-3.11\Modules\CheckCXXCompilerFlag.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompilerId.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeCompilerIdDetection.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeFindBinUtils.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMCompiler.cmake.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\3.11.0-rc4\CMakeASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASM_MASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASMCompiler.cmake;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\build\version_string.ver.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+E:\software\code\app\cmake\bin\cmake.exe -HF:/Hex_dominant_meshing/robust_hex_dominant_meshing -BF:/Hex_dominant_meshing/robust_hex_dominant_meshing/build --check-stamp-file F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/tbb/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tbb/CMakeLists.txt;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;E:\software\code\app\cmake\share\cmake-3.11\Modules\CheckCXXCompilerFlag.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeDetermineCompilerId.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeCompilerIdDetection.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeFindBinUtils.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMCompiler.cmake.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\3.11.0-rc4\CMakeASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASM_MASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeASMInformation.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASM_MASMCompiler.cmake;E:\software\code\app\cmake\share\cmake-3.11\Modules\CMakeTestASMCompiler.cmake;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\build\version_string.ver.in;F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tbb\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ZERO_CHECK.vcxproj">
+      <Project>{D9BBC965-405F-3B78-9FCF-5722D7E1BFBC}</Project>
+      <Name>ZERO_CHECK</Name>
+    </ProjectReference>
+    <ProjectReference Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tbb\tbb_static.vcxproj">
+      <Project>{AB710714-D73C-3941-8068-B006C66DE0CE}</Project>
+      <Name>tbb_static</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
+  </ImportGroup>
+</Project>

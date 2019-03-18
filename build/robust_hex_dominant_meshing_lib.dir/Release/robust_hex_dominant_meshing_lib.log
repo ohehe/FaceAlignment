@@ -1,0 +1,209 @@
+﻿  Running bin2c
+  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/CMakeFiles/generate.stamp is up-to-date.
+  meshio.cpp
+  viewer.cpp
+  batch.cpp
+  bvh.cpp
+  dedge.cpp
+  subdivide.cpp
+  hierarchy.cpp
+  orient_triangle_mesh.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\subdivide.cpp(17): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\dedge.cpp(15): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(325): warning C4101: “sread2”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(325): warning C4101: “s”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(335): warning C4101: “framid”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(358): warning C4101: “file”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(362): warning C4101: “is_boundary”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(378): warning C4101: “framid”: 未引用的局部变量
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(942): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“bool *”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(941): warning C4101: “tmp”: 未引用的局部变量
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\batch.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  orientations.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\tri_tri_intersection.h(304): warning C4456: “c”的声明隐藏了上一个本地声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\tri_tri_intersection.h(284): note: 参见“c”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\tri_tri_intersection.h(305): warning C4456: “c”的声明隐藏了上一个本地声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\tri_tri_intersection.h(284): note: 参见“c”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(19): warning C4305: “=”: 从“double”到“Float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(34): warning C4101: “e”: 未引用的局部变量
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(126): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(127): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(248): warning C4456: “f”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(194): note: 参见“f”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(278): warning C4456: “f”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(194): note: 参见“f”的声明
+  positions.cpp
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp(348): warning C4459: “tet_edges”的声明隐藏了全局声明
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(82): note: 参见“tet_edges”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\hierarchy.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\viewer.cpp(96): warning C4101: “e”: 未引用的局部变量
+  optimizer.cpp
+  extract.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(373): warning C4701: 使用了可能未初始化的局部变量“vnum”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\meshio.cpp(395): warning C4701: 使用了可能未初始化的局部变量“hnum”
+  extract3D.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+  im_resources.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\optimizer.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp(223): warning C4459: “tet_faces”的声明隐藏了全局声明
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\orientations.cpp(290): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp(284): warning C4459: “tet_faces”的声明隐藏了全局声明
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\positions.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(223): warning C4189: “energy”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(343): warning C4305: “*=”: 从“double”到“float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(370): warning C4305: “*=”: 从“double”到“float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(380): warning C4305: “*=”: 从“double”到“float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(496): warning C4305: “*=”: 从“double”到“float”截断
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(311): warning C4189: “Es_reddash_N”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(655): warning C4189: “cost”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(779): warning C4189: “v0”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(779): warning C4189: “v1”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1080): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1053): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1090): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1053): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1279): warning C4456: “e”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1187): note: 参见“e”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1321): warning C4389: “==”: 有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1446): warning C4389: “==”: 有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1553): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1536): warning C4189: “ind”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(802): warning C4456: “start_f”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(737): note: 参见“start_f”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(805): warning C4456: “pf_temp”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(742): note: 参见“pf_temp”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(793): warning C4189: “p”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1095): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1071): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1103): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1071): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1182): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1160): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1189): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1160): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1240): warning C4189: “energy”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1374): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1500): warning C4456: “j”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1441): note: 参见“j”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2066): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2319): warning C4245: “初始化”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1374): warning C4189: “left_NUM2”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1371): warning C4189: “Remove_Doublets_Num”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1374): warning C4189: “Es_reddash_N”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2405): warning C4189: “energy”: 局部变量已初始化但不引用
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2621): warning C4456: “e”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2530): note: 参见“e”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2664): warning C4389: “==”: 有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2673): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2824): warning C4389: “==”: 有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(2833): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(3054): warning C4245: “参数”: 从“int”转换到“uint32_t”，有符号/无符号不匹配
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(3132): warning C4456: “dirs”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(3117): note: 参见“dirs”的声明
+D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3481): warning C4389: “==”: 有符号/无符号不匹配 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3494): note: 参见对正在编译的函数 模板 实例化“_InIt std::_Find_unchecked1<_InIt,_Ty>(_InIt,_InIt,const _Ty &,std::false_type)”的引用
+          with
+          [
+              _InIt=unsigned int *,
+              _Ty=int32_t
+          ] (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3503): note: 参见对正在编译的函数 模板 实例化“_InIt std::_Find_unchecked<unsigned int*,_Ty>(_InIt,_InIt,const _Ty &)”的引用
+          with
+          [
+              _InIt=unsigned int *,
+              _Ty=int32_t
+          ] (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp)
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract.cpp(1060): note: 参见对正在编译的函数 模板 实例化“_InIt std::find<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int32_t>(_InIt,_InIt,const int &)”的引用
+          with
+          [
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<uint32_t>>>,
+              _Ty=uint32_t
+          ]
+D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3481): warning C4389: “==”: 有符号/无符号不匹配 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3494): note: 参见对正在编译的函数 模板 实例化“_InIt std::_Find_unchecked1<_InIt,_Ty>(_InIt,_InIt,const _Ty &,std::false_type)”的引用
+          with
+          [
+              _InIt=unsigned int *,
+              _Ty=int32_t
+          ] (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  D:\vs2017_real\VC\Tools\MSVC\14.12.25827\include\xutility(3503): note: 参见对正在编译的函数 模板 实例化“_InIt std::_Find_unchecked<unsigned int*,_Ty>(_InIt,_InIt,const _Ty &)”的引用
+          with
+          [
+              _InIt=unsigned int *,
+              _Ty=int32_t
+          ] (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp)
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3D.cpp(1078): note: 参见对正在编译的函数 模板 实例化“_InIt std::find<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int32_t>(_InIt,_InIt,const int &)”的引用
+          with
+          [
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<uint32_t>>>,
+              _Ty=uint32_t
+          ]
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\extract3d.cpp(1036): warning C4715: “MultiResolutionHierarchy::meshExtraction3D”: 不是所有的控件路径都返回值
+  rply.c
+  robust_hex_dominant_meshing_lib.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\Release\robust_hex_dominant_meshing_lib.lib

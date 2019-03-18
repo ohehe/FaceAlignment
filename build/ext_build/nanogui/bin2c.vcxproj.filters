@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\resources\bin2c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57D02610-6B66-3E26-BF54-B9446550D3B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

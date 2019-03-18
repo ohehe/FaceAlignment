@@ -1,0 +1,3 @@
+﻿  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/ext/glfw/src/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/nanogui/ext_build/glfw/src/CMakeFiles/generate.stamp is up-to-date.
+  glfw.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\nanogui\ext_build\glfw\src\Release\glfw3.lib

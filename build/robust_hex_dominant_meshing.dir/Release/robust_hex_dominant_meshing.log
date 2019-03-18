@@ -1,0 +1,13 @@
+﻿  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(63): warning C4459: “tet_faces”的声明隐藏了全局声明
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\adjacency.h(130): warning C4459: “tet_faces”的声明隐藏了全局声明
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(80): note: 参见“tet_faces”的声明
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(19): warning C4005: “Precision_Pro”: 宏重定义
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(78): note: 参见“Precision_Pro”的前一个定义
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\global_types.h(22): warning C4005: “PAI”: 宏重定义
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\src\common.h(77): note: 参见“PAI”的前一个定义
+    正在创建库 F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/Release/robust_hex_dominant_meshing.lib 和对象 F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/Release/robust_hex_dominant_meshing.exp
+  robust_hex_dominant_meshing.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\Release\robust_hex_dominant_meshing.exe

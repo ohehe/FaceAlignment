@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/nanoguig/CMakeLists.txt
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckCXXCompilerFlag.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckCXXSourceCompiles.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+E:/software/code/app/cmake/share/cmake-3.11/Modules/CheckCXXSourceRuns.cmake

@@ -1,0 +1,168 @@
+﻿  Building Custom Rule F:/Hex_dominant_meshing/robust_hex_dominant_meshing/ext/tetgen/CMakeLists.txt
+  CMake does not need to re-run because F:/Hex_dominant_meshing/robust_hex_dominant_meshing/build/ext_build/tetgen/CMakeFiles/generate.stamp is up-to-date.
+  tetgen.cxx
+  predicates.cxx
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.h(2296): warning C4100: “m”: 未引用的形参 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\predicates.cxx)
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.h(2296): warning C4100: “m”: 未引用的形参 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(2792): warning C4100: “infilename”: 未引用的形参
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(3188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(4694): warning C4127: 条件表达式是常量
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(4695): note: 考虑改用 "if constexpr" 语句
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(6036): warning C4458: “b”的声明隐藏了类成员
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.h(1279): note: 参见“tetgenmesh::b”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11144): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11673): warning C4456: “pe”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11536): note: 参见“pe”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(15204): warning C4100: “intfacelist”: 未引用的形参
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(16563): warning C4456: “spintet”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(16525): note: 参见“spintet”的声明
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(24405): warning C4100: “encpt2”: 未引用的形参
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(24405): warning C4100: “encpt1”: 未引用的形参
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(24404): warning C4100: “rrp”: 未引用的形参
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27296): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27296): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27296): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27296): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27299): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27299): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27299): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27299): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27307): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27307): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27307): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27307): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27310): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27310): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27310): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27310): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27319): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27319): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27319): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27319): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27322): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27322): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27322): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27322): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27336): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27336): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27336): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27336): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27339): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27339): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27339): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27339): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27345): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27345): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27345): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27345): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27348): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27348): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27348): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27348): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27362): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27362): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27362): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27362): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27365): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27365): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27365): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27365): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27371): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27371): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27371): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27371): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27374): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27374): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27374): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27374): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27384): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27384): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27384): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27384): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27387): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27387): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27387): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27387): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27399): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27399): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27399): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27399): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27402): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27402): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27402): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27402): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 6 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27484): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27497): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27497): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27497): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27497): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27502): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27502): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27502): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27502): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 6 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27521): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27538): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 5 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27538): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27538): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27538): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27547): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 5 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27547): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27547): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27547): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27593): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 5 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27593): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27593): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27593): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27613): warning C4477: “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 4 拥有了类型“uintptr_t”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27613): note: 请考虑在格式字符串中使用“%llx”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27613): note: 请考虑在格式字符串中使用“%Ix”
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(27613): note: 请考虑在格式字符串中使用“%I64x”
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(28044): warning C4458: “longest”的声明隐藏了类成员
+  f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.h(1356): note: 参见“tetgenmesh::longest”的声明 (编译源文件 F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx)
+F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29308): warning C4456: “i”的声明隐藏了上一个本地声明
+  F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29197): note: 参见“i”的声明
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4701: 使用了可能未初始化的局部变量“torg”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4703: 使用了可能未初始化的本地指针变量“torg”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4701: 使用了可能未初始化的局部变量“tdest”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4703: 使用了可能未初始化的本地指针变量“tdest”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4701: 使用了可能未初始化的局部变量“tapex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(11332): warning C4703: 使用了可能未初始化的本地指针变量“tapex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(25149): warning C4701: 使用了可能未初始化的局部变量“j”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(334): warning C4701: 使用了可能未初始化的局部变量“markers”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(1403): warning C4706: 条件表达式内的赋值
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(1752): warning C4706: 条件表达式内的赋值
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(28996): warning C4701: 使用了可能未初始化的局部变量“coordindex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29003): warning C4701: 使用了可能未初始化的局部变量“attribindex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29286): warning C4701: 使用了可能未初始化的局部变量“pointindex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29300): warning C4701: 使用了可能未初始化的局部变量“attribindex”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(29630): warning C4701: 使用了可能未初始化的局部变量“index”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(1241): warning C4706: 条件表达式内的赋值
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(2112): warning C4706: 条件表达式内的赋值
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(1619): warning C4706: 条件表达式内的赋值
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(7377): warning C4702: 无法访问的代码
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(23278): warning C4701: 使用了可能未初始化的局部变量“ori1”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(28305): warning C4701: 使用了可能未初始化的局部变量“smallfaangle”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(28307): warning C4701: 使用了可能未初始化的局部变量“bigfaangle”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(13588): warning C4701: 使用了可能未初始化的局部变量“pc”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(13588): warning C4703: 使用了可能未初始化的本地指针变量“pc”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(16134): warning C4701: 使用了可能未初始化的局部变量“intflag”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(16882): warning C4701: 使用了可能未初始化的局部变量“parysh”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(16882): warning C4703: 使用了可能未初始化的本地指针变量“parysh”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(8646): warning C4701: 使用了可能未初始化的局部变量“ori”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(10165): warning C4701: 使用了可能未初始化的局部变量“rd”
+f:\hex_dominant_meshing\robust_hex_dominant_meshing\ext\tetgen\tetgen.cxx(20678): warning C4701: 使用了可能未初始化的局部变量“loc”
+  tet.vcxproj -> F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\tetgen\Release\tet.lib

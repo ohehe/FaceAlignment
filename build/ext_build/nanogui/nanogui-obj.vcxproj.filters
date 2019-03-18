@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\ext\nanovg\src\nanovg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\ext\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\ext_build\nanogui\nanogui_resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\glutil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\theme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\layout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\popup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\checkbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\popupbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\combobox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\progressbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\messagedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\textbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\imagepanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\imageview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\vscrollpanel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\colorwheel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\colorpicker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\stackedwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\tabheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\tabwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\glcanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\src\serializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\ext\glad\include\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\ext\glad\include\KHR\khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\glutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\theme.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\layout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\popup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\checkbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\popupbutton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\combobox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\progressbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\slider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\messagedialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\textbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\imagepanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\imageview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\vscrollpanel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\colorwheel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\colorpicker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\stackedwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\tabheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\tabwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\glcanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\formhelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\toolbutton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\opengl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\nanogui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\serializer\core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\serializer\opengl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\include\nanogui\serializer\sparse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\build\CMakeFiles\81fe5427b6c5dc640afb7612496fa44e\nanogui_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\Hex_dominant_meshing\robust_hex_dominant_meshing\ext\nanoguig\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5BD8575-4F63-346A-82F1-8DA8C40A6F67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B4F58E66-C03E-3FDB-94B2-34D5278BAF85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{57D02610-6B66-3E26-BF54-B9446550D3B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
